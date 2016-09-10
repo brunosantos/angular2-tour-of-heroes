@@ -1,1 +1,3 @@
-# angular2-tour-of-heroes
+### Angular 2 Documentation Example 
+
+Tour of Heroes: Part 6
